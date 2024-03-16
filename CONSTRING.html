@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONVERTENDO UMA STRING PARA NUMBER</title>
+</head>
+<body>
+<style>
+    body{
+        background-color: azure;
+
+        text-align: center;
+    }
+
+    
+</style>
+
+    <h1>CONVERTENDO UMA STRING PARA NUMBER</h1>
+    <input type="number" id="nu1"> -
+    <input type="number" id="nu2">
+    <input type="button" onmouseenter="diminuir()"value="Diminuir">
+    <div id="r" >resultado</div>
+    
+<Script>
+function diminuir() {
+    var n1 = document.querySelector('input#nu1')
+    var n2 = document.querySelector('input#nu2')
+    var rr = document.querySelector('div#r')
+    var n3 = Number(n1.value)
+    var n4 = Number(n2.value)
+    var s = n3 - n4
+    rr.innerHTML =`A subtração de ${n3} e ${n4} é igual a ${s}  `
+
+    
+    
+} 
+
+
+
+
+
+
+</Script>
+
+
+
+
+
+</body>
+</html>
