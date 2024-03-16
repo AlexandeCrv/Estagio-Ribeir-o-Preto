@@ -1,1 +1,1 @@
-Me esofrcei muito...mais de 5horas no pc tentando entender o que foi pedido e botando em pratica...essa questao 2 da fibonacci arrancou uns fios de cabelo da minha cabeça...nunca fiz algo tão complicado e complexo.
+Me esforcei muito...mais de 5horas no pc tentando entender o que foi pedido e botando em pratica...essa questao 2 da fibonacci arrancou uns fios de cabelo da minha cabeça...nunca fiz algo tão complicado e complexo.
